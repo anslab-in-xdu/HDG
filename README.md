@@ -10,4 +10,4 @@ It aims to add High-Dimensional Gaussian on model COEfficients to prevent unauth
 
 ### License
 
-GNU General Public License
+GNU General Public License.
